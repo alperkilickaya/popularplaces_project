@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/popularplaces_project/static/css/main.343306f2.chunk.css",
+    "main.css": "/popularplaces_project/static/css/main.0c8f2607.chunk.css",
     "main.js": "/popularplaces_project/static/js/main.7f3d0da4.chunk.js",
     "main.js.map": "/popularplaces_project/static/js/main.7f3d0da4.chunk.js.map",
     "runtime-main.js": "/popularplaces_project/static/js/runtime-main.05919854.js",
@@ -10,14 +10,14 @@
     "static/js/3.48e5e1f4.chunk.js": "/popularplaces_project/static/js/3.48e5e1f4.chunk.js",
     "static/js/3.48e5e1f4.chunk.js.map": "/popularplaces_project/static/js/3.48e5e1f4.chunk.js.map",
     "index.html": "/popularplaces_project/index.html",
-    "static/css/main.343306f2.chunk.css.map": "/popularplaces_project/static/css/main.343306f2.chunk.css.map",
+    "static/css/main.0c8f2607.chunk.css.map": "/popularplaces_project/static/css/main.0c8f2607.chunk.css.map",
     "static/js/2.b7632f1d.chunk.js.LICENSE.txt": "/popularplaces_project/static/js/2.b7632f1d.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/popularplaces_project/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.05919854.js",
     "static/js/2.b7632f1d.chunk.js",
-    "static/css/main.343306f2.chunk.css",
+    "static/css/main.0c8f2607.chunk.css",
     "static/js/main.7f3d0da4.chunk.js"
   ]
 }
