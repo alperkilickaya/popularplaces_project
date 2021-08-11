@@ -11,3 +11,12 @@
 body {
   background-color: #44E2E2;
 }
+
+.container {
+  height:auto;
+  width: 100%;
+  display: inline-flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  padding: 0 50px;
+}
